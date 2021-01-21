@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>Akses HC-SR04</name>
+	<name>STM32f4-ultrasonic</name>
 	<comment></comment>
 	<projects>
 	</projects>
